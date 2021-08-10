@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CoverageReport scope="Summary">
+  <Summary>
+    <Generatedon>17/06/2021 - 22:51:26</Generatedon>
+    <Parser>OpenCoverParser</Parser>
+    <Assemblies>3</Assemblies>
+    <Classes>31</Classes>
+    <Files>30</Files>
+    <Coveredlines>151</Coveredlines>
+    <Uncoveredlines>1000</Uncoveredlines>
+    <Coverablelines>1151</Coverablelines>
+    <Totallines>2086</Totallines>
+    <Linecoverage>13.1</Linecoverage>
+    <Coveredbranches>0</Coveredbranches>
+    <Totalbranches>0</Totalbranches>
+  </Summary>
+  <Coverage>
+    <Assembly name="Architecture" classes="1" coverage="100" coveredlines="12" coverablelines="12" totallines="32" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="Test_ListExtention" coverage="100" coveredlines="12" coverablelines="12" totallines="32" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="EditMode" classes="2" coverage="100" coveredlines="59" coverablelines="59" totallines="115" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="EditMode_EventHandler" coverage="100" coveredlines="7" coverablelines="7" totallines="26" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="EditMode_ItemListTest" coverage="100" coveredlines="52" coverablelines="52" totallines="89" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+    <Assembly name="ScriptAssembly" classes="28" coverage="7.4" coveredlines="80" coverablelines="1080" totallines="2032" branchcoverage="" coveredbranches="0" totalbranches="0">
+      <Class name="AnimationOverrides" coverage="3.9" coveredlines="2" coverablelines="51" totallines="91" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="CharacterAttribute" coverage="0" coveredlines="0" coverablelines="5" totallines="14" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="EventHandler" coverage="0" coveredlines="0" coverablelines="14" totallines="93" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="HubCommand" coverage="0" coveredlines="0" coverablelines="30" totallines="93" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="InventoryItem" coverage="0" coveredlines="0" coverablelines="4" totallines="12" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="InventoryManager" coverage="0.7" coveredlines="1" coverablelines="131" totallines="233" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Item" coverage="0" coveredlines="0" coverablelines="18" totallines="37" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="ItemCodeDescriptionDrawer" coverage="0" coveredlines="0" coverablelines="61" totallines="123" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="ItemDetails" coverage="9" coveredlines="1" coverablelines="11" totallines="39" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="ItemNudge" coverage="0" coveredlines="0" coverablelines="60" totallines="86" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="ItemPickUp" coverage="0" coveredlines="0" coverablelines="11" totallines="19" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="ListExtention" coverage="100" coveredlines="29" coverablelines="29" totallines="41" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="MovementAnimationParameterControl" coverage="0" coveredlines="0" coverablelines="58" totallines="94" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="NonNullable[T]" coverage="0" coveredlines="0" coverablelines="18" totallines="38" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="ObscuringItemFader" coverage="0" coveredlines="0" coverablelines="33" totallines="54" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Player" coverage="1.3" coveredlines="2" coverablelines="144" totallines="238" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PlayerAnimationTest" coverage="0" coveredlines="0" coverablelines="4" totallines="29" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="PreventInspectorModificationDrawer" coverage="0" coveredlines="0" coverablelines="28" totallines="51" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="ResourceItemException" coverage="100" coveredlines="4" coverablelines="4" totallines="13" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="SerializableGuid" coverage="0" coveredlines="0" coverablelines="32" totallines="57" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="Settings" coverage="0" coveredlines="0" coverablelines="29" totallines="80" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="SingletonMonobehaviour[T]" coverage="0" coveredlines="0" coverablelines="10" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="SO_ItemList" coverage="100" coveredlines="27" coverablelines="27" totallines="50" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="SwitchConfineBoundingShape" coverage="0" coveredlines="0" coverablelines="9" totallines="24" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="TriggerObscuringItemFader" coverage="0" coveredlines="0" coverablelines="16" totallines="25" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UIInventoryBar" coverage="2.7" coveredlines="3" coverablelines="108" totallines="150" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UIInventorySlot" coverage="4.1" coveredlines="5" coverablelines="121" totallines="201" branchcoverage="" coveredbranches="0" totalbranches="0" />
+      <Class name="UIInventoryTextBox" coverage="42.8" coveredlines="6" coverablelines="14" totallines="23" branchcoverage="" coveredbranches="0" totalbranches="0" />
+    </Assembly>
+  </Coverage>
+</CoverageReport>

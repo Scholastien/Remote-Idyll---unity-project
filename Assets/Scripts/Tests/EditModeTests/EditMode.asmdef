@@ -1,0 +1,24 @@
+{
+    "name": "EditMode",
+    "references": [
+        "GUID:7c04f0dfa9243c04681a55d90d3ff3fc",
+        "GUID:e9745f6a32442194c8dc5a43e9ab86f9",
+        "GUID:2e71dcf1d04935a4cb12eb33b63333d8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll",
+        "Moq.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

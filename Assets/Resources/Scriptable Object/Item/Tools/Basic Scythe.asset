@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46aefc1097f9a7a4b8a35cca05ec0145, type: 3}
+  m_Name: Basic Scythe
+  m_EditorClassIdentifier: 
+  _uniqueIdentifier:
+    Value: f321995a-9fed-407a-9612-e0ecaa632816
+  itemCode: f321995a-9fed-407a-9612-e0ecaa632816
+  itemType: 6
+  itemDescription: Basic Scythe
+  itemSprite: {fileID: 21300506, guid: 853ac38383c680342ac7e688bf29b197, type: 3}
+  itemLongDescription: 
+  itemUseGridRadius: 2
+  itemUseRadius: 1.5
+  isStartingItem: 1
+  canBePicked: 1
+  canBeDropped: 0
+  canBeEaten: 0
+  canBeCarried: 0

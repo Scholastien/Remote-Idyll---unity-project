@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2021-06-17_14-55-54" tag="">
+  <assembly name="Architecture">
+    <class name="Test_ListExtention" coveredlines="12" coverablelines="12" totallines="32" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="EditMode">
+    <class name="EditMode_EventHandler" coveredlines="7" coverablelines="7" totallines="26" coveredbranches="0" totalbranches="0" />
+    <class name="EditMode_ItemListTest" coveredlines="52" coverablelines="52" totallines="89" coveredbranches="0" totalbranches="0" />
+  </assembly>
+  <assembly name="ScriptAssembly">
+    <class name="EventHandler" coveredlines="0" coverablelines="10" totallines="83" coveredbranches="0" totalbranches="0" />
+    <class name="HubCommand" coveredlines="0" coverablelines="30" totallines="83" coveredbranches="0" totalbranches="0" />
+    <class name="InventoryItem" coveredlines="0" coverablelines="4" totallines="12" coveredbranches="0" totalbranches="0" />
+    <class name="InventoryManager" coveredlines="1" coverablelines="131" totallines="233" coveredbranches="0" totalbranches="0" />
+    <class name="Item" coveredlines="0" coverablelines="18" totallines="37" coveredbranches="0" totalbranches="0" />
+    <class name="ItemCodeDescriptionDrawer" coveredlines="0" coverablelines="61" totallines="123" coveredbranches="0" totalbranches="0" />
+    <class name="ItemDetails" coveredlines="1" coverablelines="11" totallines="39" coveredbranches="0" totalbranches="0" />
+    <class name="ItemNudge" coveredlines="0" coverablelines="60" totallines="86" coveredbranches="0" totalbranches="0" />
+    <class name="ItemPickUp" coveredlines="0" coverablelines="11" totallines="19" coveredbranches="0" totalbranches="0" />
+    <class name="ListExtention" coveredlines="29" coverablelines="29" totallines="41" coveredbranches="0" totalbranches="0" />
+    <class name="MovementAnimationParameterControl" coveredlines="0" coverablelines="58" totallines="94" coveredbranches="0" totalbranches="0" />
+    <class name="NonNullable[T]" coveredlines="0" coverablelines="18" totallines="38" coveredbranches="0" totalbranches="0" />
+    <class name="ObscuringItemFader" coveredlines="0" coverablelines="33" totallines="54" coveredbranches="0" totalbranches="0" />
+    <class name="Player" coveredlines="1" coverablelines="110" totallines="170" coveredbranches="0" totalbranches="0" />
+    <class name="PlayerAnimationTest" coveredlines="0" coverablelines="4" totallines="29" coveredbranches="0" totalbranches="0" />
+    <class name="PreventInspectorModificationDrawer" coveredlines="0" coverablelines="28" totallines="51" coveredbranches="0" totalbranches="0" />
+    <class name="ResourceItemException" coveredlines="4" coverablelines="4" totallines="13" coveredbranches="0" totalbranches="0" />
+    <class name="SerializableGuid" coveredlines="0" coverablelines="32" totallines="57" coveredbranches="0" totalbranches="0" />
+    <class name="Settings" coveredlines="0" coverablelines="29" totallines="80" coveredbranches="0" totalbranches="0" />
+    <class name="SingletonMonobehaviour[T]" coveredlines="0" coverablelines="10" totallines="24" coveredbranches="0" totalbranches="0" />
+    <class name="SO_ItemList" coveredlines="27" coverablelines="27" totallines="50" coveredbranches="0" totalbranches="0" />
+    <class name="SwitchConfineBoundingShape" coveredlines="0" coverablelines="9" totallines="24" coveredbranches="0" totalbranches="0" />
+    <class name="TriggerObscuringItemFader" coveredlines="0" coverablelines="16" totallines="25" coveredbranches="0" totalbranches="0" />
+    <class name="UIInventoryBar" coveredlines="3" coverablelines="108" totallines="150" coveredbranches="0" totalbranches="0" />
+    <class name="UIInventorySlot" coveredlines="5" coverablelines="119" totallines="197" coveredbranches="0" totalbranches="0" />
+    <class name="UIInventoryTextBox" coveredlines="6" coverablelines="14" totallines="23" coveredbranches="0" totalbranches="0" />
+  </assembly>
+</coverage>

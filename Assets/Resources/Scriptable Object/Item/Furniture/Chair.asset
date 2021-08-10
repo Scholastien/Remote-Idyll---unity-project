@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46aefc1097f9a7a4b8a35cca05ec0145, type: 3}
+  m_Name: Chair
+  m_EditorClassIdentifier: 
+  _uniqueIdentifier:
+    Value: efc70c81-bdbf-404f-a0c8-e82098b1661d
+  itemCode: efc70c81-bdbf-404f-a0c8-e82098b1661d
+  itemType: 9
+  itemDescription: Chair
+  itemSprite: {fileID: 21300000, guid: 2a61f48c8f2dfed4da6f2f8e2485ee15, type: 3}
+  itemLongDescription: 
+  itemUseGridRadius: 0
+  itemUseRadius: 0
+  isStartingItem: 0
+  canBePicked: 0
+  canBeDropped: 0
+  canBeEaten: 0
+  canBeCarried: 0

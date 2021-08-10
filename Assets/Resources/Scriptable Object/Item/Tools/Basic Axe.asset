@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46aefc1097f9a7a4b8a35cca05ec0145, type: 3}
+  m_Name: Basic Axe
+  m_EditorClassIdentifier: 
+  _uniqueIdentifier:
+    Value: b3755475-e526-42ad-ad30-63043e537e3a
+  itemCode: b3755475-e526-42ad-ad30-63043e537e3a
+  itemType: 4
+  itemDescription: Basic Axe
+  itemSprite: {fileID: 21300010, guid: 853ac38383c680342ac7e688bf29b197, type: 3}
+  itemLongDescription: 
+  itemUseGridRadius: 1
+  itemUseRadius: 0
+  isStartingItem: 1
+  canBePicked: 1
+  canBeDropped: 0
+  canBeEaten: 0
+  canBeCarried: 0

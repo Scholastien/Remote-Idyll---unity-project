@@ -1,1 +1,1 @@
-Remote Idyll - unity project
+Remote Idyll
